@@ -1,0 +1,22 @@
+{
+  "name": "smirnfil.github.io",
+  "version": "1.0.0",
+  "description": "This is my personal site.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/smirnfil/smirnfil.github.io.git"
+  },
+  "author": "Philipp Smirnov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smirnfil/smirnfil.github.io/issues"
+  },
+  "homepage": "https://github.com/smirnfil/smirnfil.github.io",
+  "devDependencies": {
+    "metalsmith": "^1.3.0"
+  }
+}
