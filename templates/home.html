@@ -5,8 +5,6 @@
 		<title>{{ title }}</title>
 	</head>
 	<body>
-		<article>
-			{{{ contents }}}
-		</article>
+		{{> (lookup . 'style') this}}
 	</body>
 </html>
