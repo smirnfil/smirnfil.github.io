@@ -1,7 +1,8 @@
 ---
 title: Home
+template: home.hbt
 ---
 
-Hello. It's me, Philipp.
+###Hello. It's me, Philipp.
 
-Now I could autodeploy this site.
+Handelbars up and running.
