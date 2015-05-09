@@ -1,6 +1,7 @@
 ---
 title: Home
-template: home.hbt
+template: home.html
+style: content
 ---
 
 ###Hello. It's me, Philipp.
