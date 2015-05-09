@@ -11,8 +11,11 @@ var templates  = require('metalsmith-templates');
 var Handlebars = require('handlebars');
 var fs         = require('fs');
 
-Handlebars.registerPartial('content', fs.readFileSync(__dirname + 
-'/templates/partials/content.html').toString());
+Handlebars.registerPartial('article', fs.readFileSync(__dirname + 
+'/templates/partials/article.html').toString());
+
+Handlebars.registerPartial('posts', fs.readFileSync(__dirname + 
+'/templates/partials/posts.html').toString());
 
 metalsmith(__dirname)
 	.source('src')

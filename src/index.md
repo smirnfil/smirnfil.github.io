@@ -1,7 +1,7 @@
 ---
 title: Home
-template: home.html
-style: content
+template: master.html
+content-template: posts
 ---
 
 ###Hello. It's me, Philipp.
