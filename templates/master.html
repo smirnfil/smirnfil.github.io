@@ -3,11 +3,19 @@
 	<head>
 		<meta charset="UTF-8" />
 		<title>{{ title }}</title>
+		<meta name="google-site-verification" content="wBaRqSQCNUR-Q4hBnSaVsj50h6OhnZn88UWUNATBqjY" />
+		<link rel="stylesheet" href="/main.css" >
 	</head>
 	<body>
 	<header> Philipp's blog</header>
 	<nav></nav>
+	<aside>
+	<img src="/img/me.jpg" alt="my portrait" width=200 height=200></img>	
+	</aside>
+	<main>
 			{{> (lookup . 'content_template') this}}
-		<footer>&copy; 2015 Philipp Smirnov</footer>
+	</main>
+	
+	<footer>&copy; 2015 Philipp Smirnov</footer>
 	</body>
 </html>
