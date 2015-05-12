@@ -5,6 +5,9 @@
 		<title>{{ title }}</title>
 	</head>
 	<body>
-		{{> (lookup . 'content-template') this}}
+	<header> Philipp's blog</header>
+	<nav></nav>
+			{{> (lookup . 'content_template') this}}
+		<footer>&copy; 2015 Philipp Smirnov</footer>
 	</body>
 </html>
