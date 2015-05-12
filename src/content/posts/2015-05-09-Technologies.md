@@ -1,8 +1,9 @@
 ---
 title: List of things you need to do to comfortably develop a web-site
+short_title: technologies
 date: 2015-05-09
 template: master.html
-content-template: article
+content_template: article
 ---
 
 I've started this blog for several reasons. One of them - to refresh my skills in web development. Last time I developed web sites in 2009 

@@ -1,7 +1,7 @@
 ---
 title: Home
 template: master.html
-content-template: posts
+content_template: posts
 ---
 
 ###Hello. It's me, Philipp.

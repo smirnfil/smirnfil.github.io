@@ -1,7 +1,8 @@
 ---
 title: About me
 template: master.html
-content-template: about
+content_template: about
+short_title: about
 ---
 
 #Philipp Smirnov
