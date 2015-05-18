@@ -7,15 +7,15 @@
 		<link rel="stylesheet" href="/main.css" >
 	</head>
 	<body>
-	<header> Philipp's blog</header>
+	<header><h1> Philipp's blog</h1></header>
 	<nav></nav>
 	<aside>
-	<img src="/img/me.jpg" alt="my portrait" width=200 height=200></img>	
+	<img src="/img/me.jpg" alt="my portrait"></img>	
 	</aside>
 	<main>
 			{{> (lookup . 'content_template') this}}
 	</main>
 	
-	<footer>&copy; 2015 Philipp Smirnov</footer>
+	<footer><p>&copy; 2015 Philipp Smirnov</p></footer>
 	</body>
 </html>
