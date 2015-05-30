@@ -94,4 +94,9 @@ nav ul ul li {
 	font-weight: normal;
 }
 
+nav a {
+  color: inherit; 
+  text-decoration: none; 
+}
+
 
