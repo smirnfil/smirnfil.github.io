@@ -1,7 +1,7 @@
 ---
 title: About me
 template: master.html
-content_template: about
+content_template: simple
 short_title: about
 ---
 
