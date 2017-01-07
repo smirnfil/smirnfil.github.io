@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Phil&#39;s Mind Dump</title>
+    <link>http://smirnfil.github.io/post/index.xml</link>
+    <description>Recent content in Posts on Phil&#39;s Mind Dump</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 06 Jan 2017 17:16:11 +1000</lastBuildDate>
+    <atom:link href="http://smirnfil.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Moving to Hugo</title>
+      <link>http://smirnfil.github.io/post/moving-to-hugo/</link>
+      <pubDate>Fri, 06 Jan 2017 17:16:11 +1000</pubDate>
+      
+      <guid>http://smirnfil.github.io/post/moving-to-hugo/</guid>
+      <description>&lt;p&gt;This is my next try to start a blog. Previous one was nearly two years ago. It is interesting to see how fast technology is evolving. Hugo - the tool I am planning to use now - wasn&amp;rsquo;t even in a stable state.&lt;/p&gt;
+
+&lt;p&gt;Hugo is a simple static site generator - it doesn&amp;rsquo;t have any dependencies to run. The older site generators had tons of dependencies - language, runtime, a couple of libraries, plugins etc. They often had caveats with some platforms(windows, usually) and occasional version conflicts.
+It wasn&amp;rsquo;t that bad for a person with software development experience, but if you compare it to a single executable file that is Hugo - difference is dramatic.&lt;/p&gt;
+
+&lt;p&gt;As a result, it took me about 20 minutes to set up Hugo site and it took me a several hours with an older technology. So if you want to use a static site generator - you should give Hugo a try.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
